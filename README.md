@@ -20,7 +20,7 @@ This is an example of the [Wifigotchi](http://wifigotchi.com) running on the Jav
 
 ## Run the Code!
 
-Make sure you've flashed the Espruino runtime using the one-click flasher utility, Flasher.js. You only need to do this once.
+Make sure you've flashed the Espruino runtime using the one-click flasher utility, [Flasher.js](http://forefront.io/a/introducing-flasher-js/). You only need to do this once.
 
 ![Flasher.js 2x speed](http://forefront.io/attachments/flasher.js.gif)
 
@@ -70,3 +70,4 @@ When you're done run the push command to deploy it to your device.
 $ npm run push
 ```
 
+Then visit [http://wifigotchi.com](http://wifigotchi.com) and click a face and watch your internet enabled Wifigotchi change it's face!
