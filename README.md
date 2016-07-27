@@ -1,4 +1,4 @@
-# wifigotchi-example
+# An Internet-enabled DIY MMO "Tamagotchi"
 
 This is an example of the [Wifigotchi](http://wifigotchi.com) running on the JavaScript runtime [Espruino](http://espruino.com) on an ESP8266 based board, the [Adafruit Feather HUZZAH](https://www.adafruit.com/products/2821).
 
