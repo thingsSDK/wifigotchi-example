@@ -8,7 +8,7 @@ This is an example of the [Wifigotchi](http://wifigotchi.com) running on the Jav
 * [8x8 LED Matrix](https://www.adafruit.com/products/1857) Any color, as long as it has the 
 * [Breadboard](https://www.adafruit.com/products/64) 
 * [Breadboarding wire](https://www.adafruit.com/products/153)
-* 
+
 ## Software
 
 * [Flasher.js](http://forefront.io/a/introducing-flasher-js/) (To installer/flash Espruino on your ESP8266 board)
