@@ -42,3 +42,6 @@ typings
 
 # tmp directory
 tmp
+
+# Wifi Credentials
+credentials.json
