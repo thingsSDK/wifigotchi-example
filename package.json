@@ -12,5 +12,8 @@
   },
   "engines": {
     "espruino": "1.86"
+  },
+  "dependencies": {
+    "thingssdk-adafruit-matrix": "github:thingssdk/thingssdk-adafruit-matrix"
   }
 }
