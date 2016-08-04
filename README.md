@@ -38,7 +38,7 @@ $ npm install
 
 Modify `devices.json` with your COM/serial port. Replace `COM7` to your port.
 
-Modify `main.js` with your wifi connectivity settings.
+Rename `credentials.example.json` to `credentials.json` and modify with your wifi connectivity settings.
 
 ```javascript
     {
