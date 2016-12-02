@@ -1,8 +1,0 @@
-{
-    "devices": {
-        "COM7": {
-            "baud_rate": 115200,
-            "runtime": "espruino"
-        }
-    }
-}
